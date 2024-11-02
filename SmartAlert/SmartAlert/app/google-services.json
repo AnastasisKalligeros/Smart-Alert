@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "716505066198",
+    "project_id": "smartalert-18a78",
+    "storage_bucket": "smartalert-18a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716505066198:android:f6e28af9ae4d9d6acbf777",
+        "android_client_info": {
+          "package_name": "com.example.smartalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716505066198-vdkh0v6i9ghu1k8l93jsd1jg56hlndah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eyAWvWXOUUzrl_OpFYLUYKSF95RDM7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716505066198-vdkh0v6i9ghu1k8l93jsd1jg56hlndah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716505066198:android:a5ceab61b1b5461acbf777",
+        "android_client_info": {
+          "package_name": "com.unipi.anastasis.smartalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716505066198-vdkh0v6i9ghu1k8l93jsd1jg56hlndah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eyAWvWXOUUzrl_OpFYLUYKSF95RDM7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716505066198-vdkh0v6i9ghu1k8l93jsd1jg56hlndah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

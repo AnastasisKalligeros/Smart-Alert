@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartAlert</string>
+    <string-array name="roles">
+        <item>Civilian</item>
+        <item>Civil protection</item>
+    </string-array>
+    <string-array name="danger">
+        <item>Flood</item>
+        <item>Fire</item>
+        <item>Earthquake</item>
+        <item>Tornado</item>
+        <item>Tsunami</item>
+        <item>Snowstorm</item>
+    </string-array>
+</resources>

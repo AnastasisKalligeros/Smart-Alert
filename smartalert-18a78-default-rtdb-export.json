@@ -1,0 +1,148 @@
+{
+  "Incident": {
+    "-NO9Tf06FPDijzduhAdX": {
+      "comments": "We can't breathe. Please help!!",
+      "location": "37.421998333333335,-122.084",
+      "photo": "2f7f4a08-5dd6-4641-b94c-2633c1935dda",
+      "timestamp": "13-02-2023 11:11::06",
+      "type": "Fire"
+    },
+    "-NO9Wi0XsdbwRE2_A1DG": {
+      "comments": "there is an earthquake here!",
+      "location": "37.919295000000005,23.732705000000003",
+      "photo": "c95025b6-fbbd-45df-8f87-d67a3103a3dd",
+      "timestamp": "13-02-2023 13:25::33",
+      "type": "Earthquake"
+    },
+    "-NO9WmNZxj_xcKvj4xp5": {
+      "comments": "help us please!",
+      "location": "37.919405,23.732663333333335",
+      "photo": "c9631db5-3b54-4c7a-b4c9-e5cc7a9358ba",
+      "timestamp": "13-02-2023 13:26::39",
+      "type": "Fire"
+    },
+    "-NO9WqKFs9oM7kzzYaFi": {
+      "comments": "we are burning!!!",
+      "location": "34.2376636848994, -117.87471216457095",
+      "photo": "76d01849-f56b-4b0a-b087-47b1954901a9",
+      "timestamp": "13-02-2023 13:26::57",
+      "type": "Fire"
+    },
+    "-NO9Wufqb45broEcBv-3": {
+      "comments": "we need medical support!",
+      "location": "34.2376636848994, -117.87471216457095",
+      "photo": "43b7c07c-3ecb-4e3d-bec7-c4f2c2adc069",
+      "timestamp": "13-02-2023 13:27::14",
+      "type": "Earthquake"
+    },
+    "-NO9X-8BcrmTS6q7JlTp": {
+      "comments": "there is a huge wave!",
+      "location": "37.919336666666666,23.732621666666667",
+      "photo": "6948f6e2-0e01-4d2d-ba10-45adf1e48433",
+      "timestamp": "13-02-2023 13:27::31",
+      "type": "Tsunami"
+    },
+    "-NO9X4a7D_T6OlbRl2w6": {
+      "comments": "we are drowning..",
+      "location": "37.91930166666667,23.732598333333332",
+      "photo": "d2164210-bd2c-46e8-afc1-60ed6abca119",
+      "timestamp": "13-02-2023 13:27::57",
+      "type": "Flood"
+    },
+    "-NO9X8QleZF7JR1utAe_": {
+      "comments": "we need boats!",
+      "location": "37.9193,23.73258",
+      "photo": "eb3ed3cb-a967-4b74-8c4d-897c33230c47",
+      "timestamp": "13-02-2023 13:28::17",
+      "type": "Flood"
+    },
+    "-NOfezo3vxePaNvv4vxB": {
+      "comments": "Please help me!!",
+      "location": "37.421998333333335,-122.084",
+      "photo": "01d92fcf-1673-4932-bf3d-d6e1b231a39a",
+      "timestamp": "19-02-2023 21:54::05",
+      "type": "Fire"
+    }
+  },
+  "SubmittedIncident": {
+    "-NO9XO-LjSTEerq73p7h": {
+      "comments": "We can't breathe. Please help!!",
+      "location": "37.421998333333335,-122.084",
+      "photo": "2f7f4a08-5dd6-4641-b94c-2633c1935dda",
+      "timestamp": "13-02-2023 11:11::06",
+      "type": "Fire"
+    },
+    "-NO9XPr7SWGe7AlGlYQD": {
+      "comments": "We need medical support!",
+      "location": "37.91934166666667,23.732618333333335",
+      "photo": "43b7c07c-3ecb-4e3d-bec7-c4f2c2adc069",
+      "timestamp": "13-02-2023 13:27::14",
+      "type": "Earthquake"
+    },
+    "-NO9XRHp2XSUy2AM2fWp": {
+      "comments": "We need boats!",
+      "location": "37.9193,23.73258",
+      "photo": "eb3ed3cb-a967-4b74-8c4d-897c33230c47",
+      "timestamp": "13-02-2023 13:28::17",
+      "type": "Flood"
+    },
+    "-NO9iPjB9UfLsS7wKtwx": {
+      "comments": "We can't breathe. Please help!!",
+      "location": "37.421998333333335,-122.084",
+      "photo": "2f7f4a08-5dd6-4641-b94c-2633c1935dda",
+      "timestamp": "13-02-2023 11:11::06",
+      "type": "Fire"
+    },
+    "-NOAQz5e5fkFmEtc4nrF": {
+      "comments": "We can't breathe. Please help!!",
+      "location": "37.421998333333335,-122.084",
+      "photo": "2f7f4a08-5dd6-4641-b94c-2633c1935dda",
+      "timestamp": "13-02-2023 11:11::06",
+      "type": "Fire"
+    },
+    "-NOfegPRpfJKCNEBANzY": {
+      "comments": "We can't breathe. Please help!!",
+      "location": "37.421998333333335,-122.084",
+      "photo": "2f7f4a08-5dd6-4641-b94c-2633c1935dda",
+      "timestamp": "13-02-2023 11:11::06",
+      "type": "Fire"
+    },
+    "-NOffXUnqLRByKWS-5Qy": {
+      "comments": "help us please!",
+      "location": "37.919405,23.732663333333335",
+      "photo": "c9631db5-3b54-4c7a-b4c9-e5cc7a9358ba",
+      "timestamp": "13-02-2023 13:26::39",
+      "type": "Fire"
+    }
+  },
+  "Users": {
+    "-NMywnGjwMZ1t3Vjhbm7": {
+      "email": "an@gmail.com",
+      "fullname": "aa",
+      "password": "123456",
+      "phone": "6955905050",
+      "role": "Civilian"
+    },
+    "-NNHufCt6H39intth6Bt": {
+      "email": "papa@gmail.com",
+      "fullname": "Georgios",
+      "password": "123456",
+      "phone": "6955905050",
+      "role": "Civil protection"
+    },
+    "-NOAPik32zU4MOOMbAtO": {
+      "email": "makis@gmail.com",
+      "fullname": "Makis",
+      "password": "123456",
+      "phone": "6990505050",
+      "role": "Civilian"
+    },
+    "-NOffMxmrEPXjv2qmH7o": {
+      "email": "makispr@gmail.com",
+      "fullname": "Makis",
+      "password": "123412",
+      "phone": "6925634879",
+      "role": "Civilian"
+    }
+  }
+}
